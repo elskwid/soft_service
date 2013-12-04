@@ -7,6 +7,8 @@
 
 ## Description
 
+![][softserve]
+
 TODO: Description
 
 ## Features
@@ -40,3 +42,5 @@ Or install it yourself as:
 Copyright (c) 2013 Don Morrison
 
 See [LICENSE.txt](LICENSE.txt) for details.
+
+[softserve]: http://f.cl.ly/items/1q44291H2h311o1U033E/Image%202013.12.03%209%3A37%3A36%20PM.png
