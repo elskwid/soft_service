@@ -17,12 +17,26 @@ TODO: Description
 
 ## Requirements
 
-## Install
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem "soft_service"
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
 
     $ gem install soft_service
+
 
 ## Copyright
 
 Copyright (c) 2013 Don Morrison
 
-See {file:LICENSE.txt} for details.
+See [LICENSE.txt](LICENSE.txt) for details.
