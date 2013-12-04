@@ -1,4 +1,3 @@
-### 0.1 / 2013-12-03
+### 0.1 (unreleased)
 
-* Initial release:
-
+  * Add initial extraction and tests
