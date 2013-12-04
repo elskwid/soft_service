@@ -7,6 +7,8 @@
 
 ## Description
 
+![soft serve](http://cl.ly/image/45090w2S1g1I)
+
 TODO: Description
 
 ## Features
