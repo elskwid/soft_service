@@ -5,8 +5,8 @@ require File.expand_path('../lib/soft_service/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name          = "soft_service"
   gem.version       = SoftService::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{Mixins for service objects.}
+  gem.description   = %q{A pattern for service object interfaces.}
   gem.license       = "MIT"
   gem.authors       = ["Don Morrison"]
   gem.email         = "don@elskwid.net"
